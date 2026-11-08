@@ -1,8 +1,8 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "min_version": 1,
   "news": "",
   "news_id": 0,
   "text": "",
-  "until": 0
+  "until": 1794173242
 }
