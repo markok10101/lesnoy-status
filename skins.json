@@ -1,0 +1,28 @@
+{
+ "skins": [
+  {
+   "id": "ny_hat",
+   "name": "Новогодняя шапка",
+   "slot": "hat",
+   "img": "skins/ny_hat.png",
+   "size": 30,
+   "oy": -1.5
+  },
+  {
+   "id": "santa_bag",
+   "name": "Мешок Деда Мороза",
+   "slot": "pack",
+   "img": "skins/santa_bag.png",
+   "size": 24,
+   "oy": 0
+  }
+ ],
+ "codes": [
+  {
+   "h": "6e89a6b707257e7e0a19039a9087e6c29e33db8eb2324179c1095eb5116d23b8",
+   "skin": "ny_hat",
+   "until": 1799960400,
+   "label": "Новый год (тест)"
+  }
+ ]
+}

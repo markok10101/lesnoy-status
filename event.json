@@ -1,0 +1,33 @@
+{
+ "id": "ny2027",
+ "on": false,
+ "start": 0,
+ "end": 1799874000,
+ "title": "Новый год в лагере!",
+ "text": "Собирай подарки в лесу и получи мешок Деда Мороза",
+ "snow": true,
+ "lights": true,
+ "deco": [
+  {
+   "img": "events/ny/snowman.png",
+   "dx": 118,
+   "dy": -22,
+   "w": 52
+  }
+ ],
+ "scatter": {
+  "img": "events/ny/snowman.png",
+  "w": 48,
+  "chance": 0.05
+ },
+ "collect": {
+  "img": "events/ny/gift.png",
+  "name": "Подарки",
+  "w": 30,
+  "goal": 25,
+  "max": 6,
+  "every": 5,
+  "reward": "santa_bag"
+ },
+ "tree_lights": true
+}
